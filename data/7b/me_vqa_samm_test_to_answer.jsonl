@@ -1,0 +1,35 @@
+{"video_id":"samm_test_SAMM-1_1","video":"SAMM-1","question":"What is the coarse expression class?","answer":""}
+{"video_id":"samm_test_SAMM-1_2","video":"SAMM-1","question":"What is the fine-grained expression class?","answer":""}
+{"video_id":"samm_test_SAMM-1_3","video":"SAMM-1","question":"What is the action unit?","answer":""}
+{"video_id":"samm_test_SAMM-1_4","video":"SAMM-1","question":"Is the action unit cheek raiser shown on the face?","answer":""}
+{"video_id":"samm_test_SAMM-1_5","video":"SAMM-1","question":"What is the action unit present, and based on it, what is the fine-grained expression and the coarse expression class?","answer":""}
+{"video_id":"samm_test_SAMM-2_1","video":"SAMM-2","question":"What is the coarse expression class?","answer":""}
+{"video_id":"samm_test_SAMM-2_2","video":"SAMM-2","question":"What is the fine-grained expression class?","answer":""}
+{"video_id":"samm_test_SAMM-2_3","video":"SAMM-2","question":"What are the action units?","answer":""}
+{"video_id":"samm_test_SAMM-2_4","video":"SAMM-2","question":"Is the action unit cheek raiser shown on the face?","answer":""}
+{"video_id":"samm_test_SAMM-2_5","video":"SAMM-2","question":"What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?","answer":""}
+{"video_id":"samm_test_SAMM-3_1","video":"SAMM-3","question":"What is the coarse expression class?","answer":""}
+{"video_id":"samm_test_SAMM-3_2","video":"SAMM-3","question":"What is the fine-grained expression class?","answer":""}
+{"video_id":"samm_test_SAMM-3_3","video":"SAMM-3","question":"What is the action unit?","answer":""}
+{"video_id":"samm_test_SAMM-3_4","video":"SAMM-3","question":"Is the action unit lip corner puller shown on the face?","answer":""}
+{"video_id":"samm_test_SAMM-3_5","video":"SAMM-3","question":"What is the action unit present, and based on it, what is the fine-grained expression and the coarse expression class?","answer":""}
+{"video_id":"samm_test_SAMM-4_1","video":"SAMM-4","question":"What is the coarse expression class?","answer":""}
+{"video_id":"samm_test_SAMM-4_2","video":"SAMM-4","question":"What is the fine-grained expression class?","answer":""}
+{"video_id":"samm_test_SAMM-4_3","video":"SAMM-4","question":"What are the action units?","answer":""}
+{"video_id":"samm_test_SAMM-4_4","video":"SAMM-4","question":"Is the action unit upper lip raiser shown on the face?","answer":""}
+{"video_id":"samm_test_SAMM-4_5","video":"SAMM-4","question":"What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?","answer":""}
+{"video_id":"samm_test_SAMM-5_1","video":"SAMM-5","question":"What is the coarse expression class?","answer":""}
+{"video_id":"samm_test_SAMM-5_2","video":"SAMM-5","question":"What is the fine-grained expression class?","answer":""}
+{"video_id":"samm_test_SAMM-5_3","video":"SAMM-5","question":"What is the action unit?","answer":""}
+{"video_id":"samm_test_SAMM-5_4","video":"SAMM-5","question":"Is the action unit cheek raiser shown on the face?","answer":""}
+{"video_id":"samm_test_SAMM-5_5","video":"SAMM-5","question":"What is the action unit present, and based on it, what is the fine-grained expression and the coarse expression class?","answer":""}
+{"video_id":"samm_test_SAMM-6_1","video":"SAMM-6","question":"What is the coarse expression class?","answer":""}
+{"video_id":"samm_test_SAMM-6_2","video":"SAMM-6","question":"What is the fine-grained expression class?","answer":""}
+{"video_id":"samm_test_SAMM-6_3","video":"SAMM-6","question":"What is the action unit?","answer":""}
+{"video_id":"samm_test_SAMM-6_4","video":"SAMM-6","question":"Is the action unit lid tightener shown on the face?","answer":""}
+{"video_id":"samm_test_SAMM-6_5","video":"SAMM-6","question":"What is the action unit present, and based on it, what is the fine-grained expression and the coarse expression class?","answer":""}
+{"video_id":"samm_test_SAMM-7_1","video":"SAMM-7","question":"What is the coarse expression class?","answer":""}
+{"video_id":"samm_test_SAMM-7_2","video":"SAMM-7","question":"What is the fine-grained expression class?","answer":""}
+{"video_id":"samm_test_SAMM-7_3","video":"SAMM-7","question":"What is the action unit?","answer":""}
+{"video_id":"samm_test_SAMM-7_4","video":"SAMM-7","question":"Is the action unit upper lip raiser shown on the face?","answer":""}
+{"video_id":"samm_test_SAMM-7_5","video":"SAMM-7","question":"What is the action unit present, and based on it, what is the fine-grained expression and the coarse expression class?","answer":""}

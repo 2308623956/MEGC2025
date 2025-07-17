@@ -1,0 +1,85 @@
+{"video_id": "casme3_test_CAS-1_1", "video": "CAS-1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video_id": "casme3_test_CAS-1_2", "video": "CAS-1", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video_id": "casme3_test_CAS-1_3", "video": "CAS-1", "question": "What is the action unit?", "answer": "brow lowerer"}
+{"video_id": "casme3_test_CAS-1_4", "video": "CAS-1", "question": "Is the action unit lip corner puller shown on the face?", "answer": "yes"}
+{"video_id": "casme3_test_CAS-1_5", "video": "CAS-1", "question": "What is the action unit present, and based on it, what is the fine-grained expression and the coarse expression class?", "answer": "The action unit present is: brow lowerer. Therefore, the fine-grained expression class is disgust, and the coarse expression class is negative."}
+{"video_id": "casme3_test_CAS-2_1", "video": "CAS-2", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video_id": "casme3_test_CAS-2_2", "video": "CAS-2", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video_id": "casme3_test_CAS-2_3", "video": "CAS-2", "question": "What are the action units?", "answer": "brow lowerer, lid tightener, nose wrinkler"}
+{"video_id": "casme3_test_CAS-2_4", "video": "CAS-2", "question": "Is the action unit inner brow raiser shown on the face?", "answer": "yes"}
+{"video_id": "casme3_test_CAS-2_5", "video": "CAS-2", "question": "What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?", "answer": "The action units present are: brow lowerer, lid tightener. Therefore, the fine-grained expression class is anger, and the coarse expression class is negative."}
+{"video_id": "casme3_test_CAS-3_1", "video": "CAS-3", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video_id": "casme3_test_CAS-3_2", "video": "CAS-3", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video_id": "casme3_test_CAS-3_3", "video": "CAS-3", "question": "What are the action units?", "answer": "brow lowerer, lid tightener, nose wrinkler, upper lip raiser"}
+{"video_id": "casme3_test_CAS-3_4", "video": "CAS-3", "question": "Is the action unit brow lowerer shown on the face?", "answer": "yes"}
+{"video_id": "casme3_test_CAS-3_5", "video": "CAS-3", "question": "What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?", "answer": "The action units present are: brow lowerer, lid tightener. Therefore, the fine-grained expression class is anger, and the coarse expression class is negative."}
+{"video_id": "casme3_test_CAS-4_1", "video": "CAS-4", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video_id": "casme3_test_CAS-4_2", "video": "CAS-4", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video_id": "casme3_test_CAS-4_3", "video": "CAS-4", "question": "What are the action units?", "answer": "brow lowerer, lid tightener, nose wrinkler"}
+{"video_id": "casme3_test_CAS-4_4", "video": "CAS-4", "question": "Is the action unit brow lowerer shown on the face?", "answer": "yes"}
+{"video_id": "casme3_test_CAS-4_5", "video": "CAS-4", "question": "What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?", "answer": "The action units present are: brow lowerer, lid tightener. Therefore, the fine-grained expression class is anger, and the coarse expression class is negative."}
+{"video_id": "casme3_test_CAS-5_1", "video": "CAS-5", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video_id": "casme3_test_CAS-5_2", "video": "CAS-5", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video_id": "casme3_test_CAS-5_3", "video": "CAS-5", "question": "What are the action units?", "answer": "brow lowerer, lid tightener, nose wrinkler"}
+{"video_id": "casme3_test_CAS-5_4", "video": "CAS-5", "question": "Is the action unit cheek raiser shown on the face?", "answer": "yes"}
+{"video_id": "casme3_test_CAS-5_5", "video": "CAS-5", "question": "What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?", "answer": "The action units present are: brow lowerer, lid tightener. Therefore, the fine-grained expression class is disgust, and the coarse expression class is negative."}
+{"video_id": "casme3_test_CAS-6_1", "video": "CAS-6", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video_id": "casme3_test_CAS-6_2", "video": "CAS-6", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video_id": "casme3_test_CAS-6_3", "video": "CAS-6", "question": "What is the action unit?", "answer": "brow lowerer"}
+{"video_id": "casme3_test_CAS-6_4", "video": "CAS-6", "question": "Is the action unit lip corner depressor shown on the face?", "answer": "no"}
+{"video_id": "casme3_test_CAS-6_5", "video": "CAS-6", "question": "What is the action unit present, and based on it, what is the fine-grained expression and the coarse expression class?", "answer": "The action unit present is: brow lowerer. Therefore, the fine-grained expression class is disgust, and the coarse expression class is negative."}
+{"video_id": "casme3_test_CAS-7_1", "video": "CAS-7", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video_id": "casme3_test_CAS-7_2", "video": "CAS-7", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video_id": "casme3_test_CAS-7_3", "video": "CAS-7", "question": "What is the action unit?", "answer": "lip corner puller"}
+{"video_id": "casme3_test_CAS-7_4", "video": "CAS-7", "question": "Is the action unit brow lowerer shown on the face?", "answer": "yes"}
+{"video_id": "casme3_test_CAS-7_5", "video": "CAS-7", "question": "What is the action unit present, and based on it, what is the fine-grained expression and the coarse expression class?", "answer": "The action unit present is: brow lowerer. Therefore, the fine-grained expression class is disgust, and the coarse expression class is negative."}
+{"video_id": "casme3_test_CAS-8_1", "video": "CAS-8", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video_id": "casme3_test_CAS-8_2", "video": "CAS-8", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video_id": "casme3_test_CAS-8_3", "video": "CAS-8", "question": "What are the action units?", "answer": "brow lowerer, lid tightener, nose wrinkler"}
+{"video_id": "casme3_test_CAS-8_4", "video": "CAS-8", "question": "Is the action unit dimpler shown on the face?", "answer": "yes"}
+{"video_id": "casme3_test_CAS-8_5", "video": "CAS-8", "question": "What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?", "answer": "The action units present are: brow lowerer, lid tightener. Therefore, the fine-grained expression class is disgust, and the coarse expression class is negative."}
+{"video_id": "casme3_test_CAS-9_1", "video": "CAS-9", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video_id": "casme3_test_CAS-9_2", "video": "CAS-9", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video_id": "casme3_test_CAS-9_3", "video": "CAS-9", "question": "What are the action units?", "answer": "brow lowerer, lid tightener, nose wrinkler"}
+{"video_id": "casme3_test_CAS-9_4", "video": "CAS-9", "question": "Is the action unit outer brow raiser shown on the face?", "answer": "yes"}
+{"video_id": "casme3_test_CAS-9_5", "video": "CAS-9", "question": "What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?", "answer": "The action units present are: brow lowerer, lid tightener. Therefore, the fine-grained expression class is disgust, and the coarse expression class is negative."}
+{"video_id": "casme3_test_CAS-10_1", "video": "CAS-10", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video_id": "casme3_test_CAS-10_2", "video": "CAS-10", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video_id": "casme3_test_CAS-10_3", "video": "CAS-10", "question": "What is the action unit?", "answer": "brow lowerer"}
+{"video_id": "casme3_test_CAS-10_4", "video": "CAS-10", "question": "Is the action unit upper lid raiser shown on the face?", "answer": "yes"}
+{"video_id": "casme3_test_CAS-10_5", "video": "CAS-10", "question": "What is the action unit present, and based on it, what is the fine-grained expression and the coarse expression class?", "answer": "The action unit present is: brow lowerer. Therefore, the fine-grained expression class is disgust, and the coarse expression class is negative."}
+{"video_id": "casme3_test_CAS-11_1", "video": "CAS-11", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video_id": "casme3_test_CAS-11_2", "video": "CAS-11", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video_id": "casme3_test_CAS-11_3", "video": "CAS-11", "question": "What is the action unit?", "answer": "lip corner puller"}
+{"video_id": "casme3_test_CAS-11_4", "video": "CAS-11", "question": "Is the action unit inner brow raiser shown on the face?", "answer": "yes"}
+{"video_id": "casme3_test_CAS-11_5", "video": "CAS-11", "question": "What is the action unit present, and based on it, what is the fine-grained expression and the coarse expression class?", "answer": "The action unit present is: brow lowerer. Therefore, the fine-grained expression class is disgust, and the coarse expression class is negative."}
+{"video_id": "casme3_test_CAS-12_1", "video": "CAS-12", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video_id": "casme3_test_CAS-12_2", "video": "CAS-12", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video_id": "casme3_test_CAS-12_3", "video": "CAS-12", "question": "What are the action units?", "answer": "brow lowerer, lid tightener, nose wrinkler, upper lip raiser"}
+{"video_id": "casme3_test_CAS-12_4", "video": "CAS-12", "question": "Is the action unit lower lip depressor shown on the face?", "answer": "no"}
+{"video_id": "casme3_test_CAS-12_5", "video": "CAS-12", "question": "What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?", "answer": "The action units present are: brow lowerer, lid tightener. Therefore, the fine-grained expression class is disgust, and the coarse expression class is negative."}
+{"video_id": "casme3_test_CAS-13_1", "video": "CAS-13", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video_id": "casme3_test_CAS-13_2", "video": "CAS-13", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video_id": "casme3_test_CAS-13_3", "video": "CAS-13", "question": "What are the action units?", "answer": "brow lowerer, lid tightener, nose wrinkler"}
+{"video_id": "casme3_test_CAS-13_4", "video": "CAS-13", "question": "Is the action unit upper lid raiser shown on the face?", "answer": "yes"}
+{"video_id": "casme3_test_CAS-13_5", "video": "CAS-13", "question": "What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?", "answer": "The action units present are: brow lowerer, lid tightener. Therefore, the fine-grained expression class is disgust, and the coarse expression class is negative."}
+{"video_id": "casme3_test_CAS-14_1", "video": "CAS-14", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video_id": "casme3_test_CAS-14_2", "video": "CAS-14", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video_id": "casme3_test_CAS-14_3", "video": "CAS-14", "question": "What is the action unit?", "answer": "brow lowerer"}
+{"video_id": "casme3_test_CAS-14_4", "video": "CAS-14", "question": "Is the action unit upper lid raiser shown on the face?", "answer": "yes"}
+{"video_id": "casme3_test_CAS-14_5", "video": "CAS-14", "question": "What is the action unit present, and based on it, what is the fine-grained expression and the coarse expression class?", "answer": "The action unit present is: brow lowerer. Therefore, the fine-grained expression class is disgust, and the coarse expression class is negative."}
+{"video_id": "casme3_test_CAS-15_1", "video": "CAS-15", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video_id": "casme3_test_CAS-15_2", "video": "CAS-15", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video_id": "casme3_test_CAS-15_3", "video": "CAS-15", "question": "What are the action units?", "answer": "brow lowerer, lid tightener, nose wrinkler, upper lip raiser"}
+{"video_id": "casme3_test_CAS-15_4", "video": "CAS-15", "question": "Is the action unit lip tightener shown on the face?", "answer": "no"}
+{"video_id": "casme3_test_CAS-15_5", "video": "CAS-15", "question": "What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?", "answer": "The action units present are: brow lowerer, lid tightener. Therefore, the fine-grained expression class is disgust, and the coarse expression class is negative."}
+{"video_id": "casme3_test_CAS-16_1", "video": "CAS-16", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video_id": "casme3_test_CAS-16_2", "video": "CAS-16", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video_id": "casme3_test_CAS-16_3", "video": "CAS-16", "question": "What are the action units?", "answer": "brow lowerer, lid tightener, nose wrinkler"}
+{"video_id": "casme3_test_CAS-16_4", "video": "CAS-16", "question": "Is the action unit lip stretcher shown on the face?", "answer": "no"}
+{"video_id": "casme3_test_CAS-16_5", "video": "CAS-16", "question": "What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?", "answer": "The action units present are: brow lowerer, lid tightener. Therefore, the fine-grained expression class is disgust, and the coarse expression class is negative."}
+{"video_id": "casme3_test_CAS-17_1", "video": "CAS-17", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video_id": "casme3_test_CAS-17_2", "video": "CAS-17", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video_id": "casme3_test_CAS-17_3", "video": "CAS-17", "question": "What are the action units?", "answer": "brow lowerer, lid tightener, nose wrinkler, upper lip raiser"}
+{"video_id": "casme3_test_CAS-17_4", "video": "CAS-17", "question": "Is the action unit dimpler shown on the face?", "answer": "yes"}
+{"video_id": "casme3_test_CAS-17_5", "video": "CAS-17", "question": "What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?", "answer": "The action units present are: brow lowerer, lid tightener. Therefore, the fine-grained expression class is disgust, and the coarse expression class is negative."}

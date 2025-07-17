@@ -1,0 +1,35 @@
+{"video_id": "samm_test_SAMM-1_1", "video": "SAMM-1", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video_id": "samm_test_SAMM-1_2", "video": "SAMM-1", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video_id": "samm_test_SAMM-1_3", "video": "SAMM-1", "question": "What is the action unit?", "answer": "lid tightener"}
+{"video_id": "samm_test_SAMM-1_4", "video": "SAMM-1", "question": "Is the action unit cheek raiser shown on the face?", "answer": "no"}
+{"video_id": "samm_test_SAMM-1_5", "video": "SAMM-1", "question": "What is the action unit present, and based on it, what is the fine-grained expression and the coarse expression class?", "answer": "The action unit present is: brow lowerer. Therefore, the fine-grained expression class is disgust, and the coarse expression class is negative."}
+{"video_id": "samm_test_SAMM-2_1", "video": "SAMM-2", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video_id": "samm_test_SAMM-2_2", "video": "SAMM-2", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video_id": "samm_test_SAMM-2_3", "video": "SAMM-2", "question": "What are the action units?", "answer": "brow lowerer, upper lip raiser"}
+{"video_id": "samm_test_SAMM-2_4", "video": "SAMM-2", "question": "Is the action unit cheek raiser shown on the face?", "answer": "yes"}
+{"video_id": "samm_test_SAMM-2_5", "video": "SAMM-2", "question": "What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?", "answer": "The action units present are: brow lowerer, upper lip raiser. Therefore, the fine-grained expression class is disgust, and the coarse expression class is negative."}
+{"video_id": "samm_test_SAMM-3_1", "video": "SAMM-3", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video_id": "samm_test_SAMM-3_2", "video": "SAMM-3", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video_id": "samm_test_SAMM-3_3", "video": "SAMM-3", "question": "What is the action unit?", "answer": "chin raiser"}
+{"video_id": "samm_test_SAMM-3_4", "video": "SAMM-3", "question": "Is the action unit lip corner puller shown on the face?", "answer": "yes"}
+{"video_id": "samm_test_SAMM-3_5", "video": "SAMM-3", "question": "What is the action unit present, and based on it, what is the fine-grained expression and the coarse expression class?", "answer": "The action unit present is: lip corner puller. Therefore, the fine-grained expression class is happiness, and the coarse expression class is positive."}
+{"video_id": "samm_test_SAMM-4_1", "video": "SAMM-4", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video_id": "samm_test_SAMM-4_2", "video": "SAMM-4", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video_id": "samm_test_SAMM-4_3", "video": "SAMM-4", "question": "What are the action units?", "answer": "brow lowerer, upper lip raiser, lip corner depressor, chin raiser"}
+{"video_id": "samm_test_SAMM-4_4", "video": "SAMM-4", "question": "Is the action unit upper lip raiser shown on the face?", "answer": "no"}
+{"video_id": "samm_test_SAMM-4_5", "video": "SAMM-4", "question": "What are the action units present, and based on them, what is the fine-grained expression and the coarse expression class?", "answer": "The action units present are: brow lowerer, upper lip raiser. Therefore, the fine-grained expression class is disgust, and the coarse expression class is negative."}
+{"video_id": "samm_test_SAMM-5_1", "video": "SAMM-5", "question": "What is the coarse expression class?", "answer": "negative"}
+{"video_id": "samm_test_SAMM-5_2", "video": "SAMM-5", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video_id": "samm_test_SAMM-5_3", "video": "SAMM-5", "question": "What is the action unit?", "answer": "brow lowerer"}
+{"video_id": "samm_test_SAMM-5_4", "video": "SAMM-5", "question": "Is the action unit cheek raiser shown on the face?", "answer": "no"}
+{"video_id": "samm_test_SAMM-5_5", "video": "SAMM-5", "question": "What is the action unit present, and based on it, what is the fine-grained expression and the coarse expression class?", "answer": "The action unit present is: brow lowerer. Therefore, the fine-grained expression class is disgust, and the coarse expression class is negative."}
+{"video_id": "samm_test_SAMM-6_1", "video": "SAMM-6", "question": "What is the coarse expression class?", "answer": "surprise"}
+{"video_id": "samm_test_SAMM-6_2", "video": "SAMM-6", "question": "What is the fine-grained expression class?", "answer": "disgust"}
+{"video_id": "samm_test_SAMM-6_3", "video": "SAMM-6", "question": "What is the action unit?", "answer": "inner brow raiser"}
+{"video_id": "samm_test_SAMM-6_4", "video": "SAMM-6", "question": "Is the action unit lid tightener shown on the face?", "answer": "yes"}
+{"video_id": "samm_test_SAMM-6_5", "video": "SAMM-6", "question": "What is the action unit present, and based on it, what is the fine-grained expression and the coarse expression class?", "answer": "The action unit present is: brow lowerer. Therefore, the fine-grained expression class is disgust, and the coarse expression class is negative."}
+{"video_id": "samm_test_SAMM-7_1", "video": "SAMM-7", "question": "What is the coarse expression class?", "answer": "surprise"}
+{"video_id": "samm_test_SAMM-7_2", "video": "SAMM-7", "question": "What is the fine-grained expression class?", "answer": "surprise"}
+{"video_id": "samm_test_SAMM-7_3", "video": "SAMM-7", "question": "What is the action unit?", "answer": "lip corner depressor"}
+{"video_id": "samm_test_SAMM-7_4", "video": "SAMM-7", "question": "Is the action unit upper lip raiser shown on the face?", "answer": "yes"}
+{"video_id": "samm_test_SAMM-7_5", "video": "SAMM-7", "question": "What is the action unit present, and based on it, what is the fine-grained expression and the coarse expression class?", "answer": "The action unit present is: nose wrinkler. Therefore, the fine-grained expression class is disgust, and the coarse expression class is negative."}
