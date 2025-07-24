@@ -28,6 +28,10 @@ Pretrained model weights are available on Hugging Face:
 
  [ALex230/MEGC2025 · Hugging Face](https://huggingface.co/ALex230/MEGC2025)
 
+quark：
+链接：https://pan.quark.cn/s/d97c04b9a934
+提取码：wit6
+
 ------
 
 ## Required Dataset
