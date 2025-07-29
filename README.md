@@ -4,7 +4,7 @@ This repository provides the inference code for our solution to the **MEGC2025 M
 
 ## Inference
 
-Run the following scripts to perform inference on the respective datasets:
+Run the following scripts to perform inference on the respective datasets（Before running, please ensure that the paths to the dataset and model checkpoint files are correctly set in the configuration. Incorrect paths may lead to file not found errors or failed inference.）:
 
 ### 1. CASME3 Test Set
 
