@@ -40,3 +40,14 @@ Please make sure you have access to the required dataset before running the infe
 
 [Unseen Dataset for VQA](https://megc2025.github.io/challenge.html)
 
+Required Dataset
+
+## Required Package
+
+```
+torch
+transformers
+qwen_vl_utils
+flash-attn
+```
+
