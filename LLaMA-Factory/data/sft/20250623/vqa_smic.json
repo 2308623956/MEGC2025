@@ -1,0 +1,2890 @@
+[
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s01_ne_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s01_ne_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s01_po_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s01_po_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s01_sur_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s02_po_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s02_sur_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s02_sur_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s02_sur_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s02_sur_04.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_ne_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_ne_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_ne_04.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_ne_05.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_ne_06.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_ne_07.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_ne_08.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_ne_09.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_ne_10.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_ne_11.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_ne_12.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_ne_13.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_ne_14.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_ne_15.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_ne_16.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_ne_17.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_ne_18.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_ne_19.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_ne_21.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_ne_22.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_po_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_po_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_po_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_po_04.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_po_05.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_po_06.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_po_07.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_po_08.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_po_09.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_po_10.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_po_11.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_sur_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_sur_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_sur_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_sur_04.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_sur_05.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s03_sur_06.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s04_ne_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s04_ne_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s04_ne_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s04_ne_04.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s04_ne_07.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s04_ne_08.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s04_ne_09.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s04_ne_10.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s04_po_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s04_po_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s04_po_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s04_po_04.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s04_sur_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s04_sur_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s04_sur_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s04_sur_04.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s05_ne_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s05_sur_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s06_ne_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s06_ne_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s06_sur_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s06_sur_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s08_ne_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s08_ne_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s08_ne_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s08_ne_04.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s08_ne_05.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s08_ne_06.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s08_ne_07.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s08_ne_08.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s08_ne_09.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s08_po_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s08_po_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s08_po_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s08_po_04.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s09_po_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s09_sur_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s09_sur_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s11_ne_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s11_ne_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s11_ne_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s11_po_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s11_po_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s11_po_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s11_sur_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s12_po_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s12_po_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s12_po_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s12_po_04.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s12_po_05.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s12_po_06.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s12_po_07.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s12_po_08.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s12_sur_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s13_po_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s13_po_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s13_po_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s13_po_04.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s13_po_05.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s13_po_06.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s13_po_07.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s13_po_08.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s13_po_09.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s13_po_10.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s14_ne_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s14_ne_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s14_ne_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s14_po_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s14_po_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s14_sur_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s14_sur_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s14_sur_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s14_sur_04.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s14_sur_05.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s15_ne_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s15_po_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s15_sur_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s15_sur_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s18_ne_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s18_ne_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s18_sur_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s18_sur_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s18_sur_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s18_sur_04.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s18_sur_05.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s19_po_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s19_sur_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s20_ne_01.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s20_ne_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s20_ne_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s20_ne_04.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s20_ne_05.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s20_ne_06.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s20_ne_07.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s20_ne_10.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s20_ne_11.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s20_ne_12.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s20_ne_13.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "negative"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s20_ne_14.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s20_po_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "positive"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s20_po_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s20_sur_02.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s20_sur_03.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s20_sur_04.mp4"
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "Please analyze the facial expression in the uploaded video.\n\nYour task is to classify the observed expression into one and only one of the following three coarse expression classes:\n\n- positive\n- negative\n- surprise\n\nThese are the only valid labels.\nYou must choose the best-fitting label based solely on the facial cues and emotion conveyed in the video.\n\nIf the expression appears ambiguous or overlaps categories, choose the one that most closely matches the observed expression.\n\nNow, answer the following question based on the video:"
+            },
+            {
+                "role": "user",
+                "content": "<video>What is the coarse expression class?"
+            },
+            {
+                "role": "assistant",
+                "content": "surprise"
+            }
+        ],
+        "videos": [
+            "/workspace/data/SMIC_E_mp4/s20_sur_05.mp4"
+        ]
+    }
+]
