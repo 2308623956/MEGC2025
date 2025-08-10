@@ -1,7 +1,15 @@
 # MEGC2025 Micro-Expression Recognition
 
 This repository provides the inference code for our solution to the **MEGC2025 Micro-Expression Recognition Challenge**.
+### Train
 
+The training data is saved in the `train_data` folder. The training code is based on LLM-Factory; for detailed usage, please refer to the official LLM-Factory documentation.
+
+```bash
+bash LLM-Factory/train-sft.sh
+```
+
+## 
 ## Inference
 
 Run the following scripts to perform inference on the respective datasets（Before running, please ensure that the paths to the dataset and model checkpoint files are correctly set in the configuration. Incorrect paths may lead to file not found errors or failed inference.）:
@@ -50,4 +58,5 @@ transformers
 qwen_vl_utils
 flash-attn
 ```
+
 
